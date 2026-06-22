@@ -1,3 +1,6 @@
+# AI editor config
+.claude
+
 # Logs
 logs
 *.log
