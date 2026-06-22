@@ -2,6 +2,7 @@
 
 > **Quackathon 2026** · Track 01: Software — The Sentient Workspace
 > Built with **Enter Pro** + **Parcle** persistent memory layer
+> **Demo Link** : https://www.loom.com/share/06f0e6d9257241ea8a9d5ffdbc3866d8
 
 ---
 
