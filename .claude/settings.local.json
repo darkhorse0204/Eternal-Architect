@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node tmp_screenshot.mjs http://localhost:5174 tmp_screenshots)"
+    ]
+  }
+}
