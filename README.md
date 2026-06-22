@@ -1,4 +1,4 @@
-# 🏛️ The Eternal Architect
+# 🏛️ The Eternal Architect - Built with Passion by Ansh Jerath & Arnav Mishra
 
 > **Quackathon 2026** · Track 01: Software — The Sentient Workspace
 > Built with **Enter Pro** + **Parcle** persistent memory layer
